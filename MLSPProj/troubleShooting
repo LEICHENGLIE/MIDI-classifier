@@ -1,0 +1,25 @@
+freetype: no  [The C/C++ header for freetype2 (ft2build.h)
+
+                        could not be found.  You may need to install the
+
+                        development package.]
+----http://stackoverflow.com/questions/20904841/installing-matplotlib-and-its-dependencies-without-root-privileges
+
+
+                   png: no  [pkg-config information for 'libpng' could not
+
+                        be found.]
+
+ --http://stackoverflow.com/questions/13979916/pip-install-matplotlib-no-pkg-config
+
+openblas
+
+mkl,vml,guide
+
+tatlas,tatlas
+
+lapack_atlas
+
+f77blas,cblas,atlas
+
+---http://deeplearning.net/software/theano/install_ubuntu.html
